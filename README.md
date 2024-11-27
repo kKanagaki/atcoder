@@ -59,6 +59,7 @@ pip3 install -r requirements.txt
 
 - 問題ディレクトリの中にMakefileがコピーされているはず（テンプレートの設定より）
 - `make && ./a.out`でコンパイルと出力を行う
+    - 初回だけ`make all`
 
 ## 提出
 
